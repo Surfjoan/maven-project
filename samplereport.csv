@@ -1,3 +1,3 @@
 timeStamp;elapsed;label;responseCode;threadName;success;bytes;grpThreads;allThreads;URL;latency;SampleCount;ErrorCount;Hostname 
-2019-09-10 19:44:22.789;5488;shouldRunASwishPaymentTransaction;0;eu.nets.ms.naa.darouter.performance.FullPaymentTests;TRUE;0;1;1;initialize/swish;8000;1;0;vm-stapp-7
-2019-09-10 19:44:20.727;233;shouldRunASwishPaymentTransaction;0;eu.nets.ms.naa.darouter.performance.FullPaymentTests;FALSE;0;1;1;initialize/swish;8000;1;1;vm-stapp-7
+2019-09-10 19:46:22.789;5488;shouldRunASwishPaymentTransaction;1;eu.nets.ms.naa.darouter.performance.FullPaymentTests;TRUE;0;1;1;initialize/swish;6000;1;0;vm-stapp-7
+2019-09-10 19:46:20.727;233;shouldRunASwishPaymentTransaction;0;eu.nets.ms.naa.darouter.performance.FullPaymentTests;FALSE;0;1;1;initialize/swish;5000;1;1;vm-stapp-7
