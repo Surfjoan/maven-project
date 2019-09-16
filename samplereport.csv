@@ -1,3 +1,0 @@
-timeStamp ;elapsed;label ;responseCode ;threadName;success ;bytes ;grpThreads ;allThreads;latency ;SampleCount ;ErrorCount;Hostname 
-2019-09-10T19:44:22.789;5488.0;shouldRunASwishPaymentTransaction;;eu.nets.ms.naa.darouter.performance.FullPaymentTests;TRUE;;1;1;;1;0;vm-stapp-7
-2019-09-10T19:44:20.727;233.0;shouldRunASwishPaymentTransaction;;eu.nets.ms.naa.darouter.performance.FullPaymentTests;FALSE;;1;1;;1;1;vm-stapp-7
